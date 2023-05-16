@@ -1,6 +1,6 @@
 # About this repository
 
-The Repo is a guide for getting started with different tech stacks.
+The Repo is a guide for setting up different tech stacks on your system.
 
 # Index
 
